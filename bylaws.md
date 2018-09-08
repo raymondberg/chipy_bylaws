@@ -1,9 +1,3 @@
-# CREATING YOUR NONPROFIT BYLAWS
-This is a combination of multiple organizations bylaws. You will need to edit
-it with your own information and customize it for your own needs. To learn more
-about creating your bylaws visit:
-http://nonprofitally.com/start-a-nonprofit/nonprofit-bylaws
-
 ## ARTICLE I. NAME OF ORGANIZATION
 The name of the corporation is YOUR NONRPOFIT NAME HERE
 
@@ -42,24 +36,15 @@ Membership is granted after completion and receipt of a membership application
 and annual dues. All memberships shall be granted upon a majority vote of the
 board.
 
-### Section 2. Annual Dues
-The amount required for annual dues shall be $XXX each year, unless changed by
-a majority vote of the members at an annual meeting of the full membership.
-Continued membership is contingent upon being up-to-date on membership dues.
-
-### Section 3. Rights of Members
+### Section 2. Rights of Members
 Each member shall be eligible to appoint one voting representative to cast the
 member’s vote in association elections.
 
-### Section 4. Resignation and Termination
+### Section 3. Resignation and Termination
 Any member may resign by filing a written resignation with the secretary.
 Resignation shall not relieve a member of unpaid dues, or other charges
 previously accrued. A member can have their membership terminated by a majority
 vote of the membership.
-
-### Section 5. Non-voting Membership
-The board shall have the authority to establish and define non-voting
-categories of membership.
 
 ## ARTICLE IV. MEETINGS OF MEMBERS
 
@@ -67,23 +52,7 @@ categories of membership.
 Regular meetings of the members shall be held quarterly, at a time and place
 designated by the chair.
 
-### Section 2. Annual Meetings
-An annual meeting of the members shall take place in the month of October (pick
-a month), the specific date, time and location of which will be designated by
-the chair. At the annual meeting the members shall elect directors and
-officers, receive reports on the activities of the association, and determine
-the direction of the association for the coming year.
-
-### Section 3. Special Meetings
-Special meetings may be called by the chair, the Executive Committee, or a
-simple majority of the board of directors. A petition signed by five percent
-(5%) of voting members may also call a special meeting.
-
-### Section 4 Notice of Meetings
-Printed notice of each meeting shall be given to each voting member, by mail,
-not less than two weeks prior to the meeting.
-
-### Section 5. Quorum
+## Section 2. Quorum
 A quorum for a meeting of the members shall consist of at least twenty percent
 (20)% of the active membership.
 
@@ -91,7 +60,7 @@ Note: You can set the quorum requirements for member meetings in your Bylaws
 and/or your Articles of Incorporation. Check with your Secretary of State
 office to see if what quorum requirements may apply to your member meetings.
 
-### Section 6.  Voting
+### Section 3.  Voting
 All issues to be voted on shall be decided by a simple majority of those
 present at the meeting in which the vote takes place.
 
@@ -114,10 +83,10 @@ members required in your state.
 The members of the Board of Directors shall, upon election, immediately enter
 upon the performance of their duties and shall continue in office until their
 successors shall be duly elected and qualified.  All members of the Board of
-Directors and Advisory Council must be approved by a majority vote of the
-members present and voting.  No vote on new members of the Board of Directors,
-or Advisory Council, shall be held unless a quorum of the Board of Directors is
-present as provided in Section 6 of this Article.
+Directors must be approved by a majority vote of the members present and
+voting.  No vote on new members of the Board of Directors shall be held unless
+a quorum of the Board of Directors is present as provided in Section 6 of this
+Article.
 
 No two members of the Board of Directors related by blood or marriage/domestic
 partnership within the second degree of consanguinity or affinity may serve on
@@ -136,14 +105,6 @@ shall expire.
 
 Each member of the Board of Directors shall attend at least nine (9) monthly
 meetings of the Board per year.
-
-Each member of the Board of Directors shall contribute at least one hundred
-cash dollars ($100) to the organization annually, all or part of which may come
-from the tax deductible value paid for or solicited by the Board member, and
-received by the Corporation.  No contribution credit shall be given for in-kind
-donations.  Provided, however, that the $100 cash requirement for any member
-who joins after the beginning of the fiscal year for his or her initial
-one-year term shall be prorated accordingly.
 
 ### Section 3. Regular and Annual Meetings
 An annual meeting of the Board of Directors shall be held at a time and day in
@@ -223,30 +184,18 @@ including but not limited to accounts on deposit in financial institutions.
 Each Director shall execute a confidentiality agreement consistent herewith
 upon being voted onto and accepting appointment to the Board of Directors.
 
-### Section 12. Advisory Council
-An Advisory Council may be created whose members shall be elected by the
-members of the Board of Directors annually but who shall have no duties, voting
-privileges, nor obligations for attendance at regular meetings of the Board.
-Advisory Council members may attend said meetings at the invitation of a member
-of the Board of Directors.  Members of the Advisory Council shall possess the
-desire to serve the community and support the work of the Corporation by
-providing expertise and professional knowledge.  Members of the Advisory
-Council shall comply with the confidentiality policy set forth herein and shall
-sign a confidentiality agreement consistent therewith upon being voted onto and
-accepting appointment to the Advisory Council.
-
 ### Section 13. Parliamentary Procedure
 Any question concerning parliamentary procedure at meetings shall be determined
 by the President by reference to Robert’s Rules of Order.
 
-### Section 14. Removal.
-Any member of the Board of Directors or members of the Advisory Council may be
-removed with or without cause, at any time, by vote of three-quarters (3/4) of
-the members of the Board of Directors if in their judgment the best interest of
-the Corporation would be served thereby.  Each member of the Board of Directors
-must receive written notice of the proposed removal at least ten (10) days in
-advance of the proposed action.  An officer who has been removed as a member of
-the Board of Directors shall automatically be removed from office.
+### Section 14. Removal
+Any member of the Board of Directors may be removed with or without cause, at
+any time, by vote of three-quarters (3/4) of the members of the Board of
+Directors if in their judgment the best interest of the Corporation would be
+served thereby. Each member of the Board of Directors must receive written
+notice of the proposed removal at least ten (10) days in advance of the
+proposed action. An officer who has been removed as a member of the Board of
+Directors shall automatically be removed from office.
 
 Members of the Board of Directors who are removed for failure to meet the
 minimum requirements in Section 2 of this Article in these by-laws
@@ -263,15 +212,11 @@ Board.
 The President shall preside at all meetings of the membership. The President
 shall have the following duties:
   a.  He/She shall preside at all meetings of the Executive Committee.
-  b.  He/She shall have general and active management of the business of this
-      Advisory Board.
-  c.  He/She shall see that all orders and resolutions of the Advisory Board
-      are brought to the Advisory Board.
   d.  He/She shall have general superintendence and direction of all other
       officers of this corporation and see that their duties are properly
       performed.
   e.  He/She shall submit a report of the operations of the program for the
-      fiscal year to the Advisory Board and members at their annual meetings,
+      fiscal year to members at their annual meetings,
       and from time to time, shall report to the Board all matters that may
       affect this program.
   f.  He/She shall be Ex-officio member of all standing committees and shall
@@ -282,66 +227,59 @@ The Vice-President shall be vested with all the powers and shall perform all
 the duties of the President during the absence of the latter. The
 Vice-Presidents duties are:
   a.  He/She shall have the duty of chairing their perspective committee and
-      such other duties as may, from time to time, be determined by the Advisory
-      Board.
+      such other duties as may, from time to time, be determined by the Board.
 
 ### Section 3. Secretary
-The Secretary shall attend all meetings of the Advisory Board and of the
-Executive Committee, and all meetings of members, and assisted by a staff
-member, will act as a clerk thereof. The Secretary’s duties shall consist of:
+The Secretary shall attend all meetings of the  of the Executive Committee, and
+all meetings of members will act as a clerk thereof. The Secretary’s duties
+shall consist of:
   a.  He/She shall record all votes and minutes of all proceedings in a book to
-      be kept for that purpose. He/She in concert with the President shall make
-      the arrangements for all meetings of the Advisory Board, including the annual
-      meeting of the organization.
+      be kept for that purpose.
   b.  Assisted by a staff member, he/she shall send notices of all meetings to
-      the members of the Advisory Board and shall take reservations for the meetings.
-  c.  He/She shall perform all official correspondence from the Advisory Board
-      as may be prescribed by the Advisory Board or the President.
+      the members of the Board and shall take reservations for the meetings.
+  c.  He/She shall perform all official correspondence from the Board as may be
+      prescribed by the Board or the President.
 
 ### Section 4. Treasurer
 The Treasures duties shall be:
   a.  He/She shall submit for the Finance and Fund Development Committee
-      approval of all expenditures of funds raised by the Advisory Board, proposed
-      capital expenditures (equipment and furniture) , by the staff of the agency.
+      approval of all capital expenditures.
   b.  He/She shall present a complete and accurate report of the finances
-      raised by this Advisory Board and also the Paul Smith Memorial Fund at each
-      meeting of the members, or at any other time upon request to the Advisory
-      Board.
+      at each meeting of the members.
   c.  He/She shall have the right of inspection of the funds resting with the
       Big Brother/Big Sister Program including budgets and subsequent audit reports.
   d.  It shall be the duty of the Treasurer to assist in direct audits of the
       funds of the program according to funding source guidelines and generally
       accepted accounting principles.
   e.  He/She shall perform such other duties as may be prescribed by the
-      Advisory Board or the President under whose supervision he/she shall be.
+      Board or the President under whose supervision he/she shall be.
 
 ### Section 5. Election of Officers
 The Nominating Committee shall submit at the meeting prior to the annual
-meeting the names of those persons for the respective offices of the Advisory
-Board.  Nominations shall also be received from the floor after the report of
-the Nominating Committee. The election shall be held at the annual meeting of
-the Advisory Board. Those officers elected shall serve a term of one (1) year,
-commencing at the next meeting following the annual meeting.
+meeting the names of those persons for the respective offices of the Executive
+Committee. Nominations shall also be received from the floor after the report of
+the Nominating Committee. The election shall be held at the last meeting of
+the Board each fiscal year. Those officers elected shall serve a term of one
+(1) year, commencing at the first meeting of the fiscal year.
 
 Officers of the Executive Committee shall be eligible to succeed themselves in
 their respective offices for two (2) terms only.
 
 ### Section 6. Removal of Officer
-The Advisory Board with the concurrence of 3/4 of the members voting at the
-meeting may remove any officer of the Board of Directors and elect a successor
-for the unexpired term. No officer of the Board of Directors shall be expelled
-without an opportunity to be heard and notice of such motion of expulsion shall
-be given to the member in writing twenty (20) days prior to the meeting at
-which motion shall be presented, setting forth the reasons of the Board for
-such expulsion.
+The Board of Directors may remove any officer by a vote of three-quarters (3/4)
+of the members of the Board and elect a successor for the unexpired term. No
+officer of the Board of Directors shall be expelled without an opportunity to
+be heard and notice of such motion of expulsion shall be given to the member in
+writing twenty (20) days prior to the meeting at which motion shall be
+presented, setting forth the reasons of the Board for such expulsion.
 
 ### Section 7. Vacancies
 The Nominating Committee shall also be responsible for nominating persons to
 fill vacancies which occur between annual meetings, including those of
-officers.  Nominations shall be sent in writing to members of the Advisory
-Board at least two (2) weeks prior to the next meeting at which the election
-will be held. The persons so elected shall hold membership or office for the
-unexpired term in respect of which such vacancy occurred.
+officers.  Nominations shall be sent in writing to members at least two (2)
+weeks prior to the next meeting at which the election will be held. The persons
+so elected shall hold membership or office for the unexpired term in respect of
+which such vacancy occurred.
 
 ## ARTICLE VII. COMMITTEES
 
@@ -368,33 +306,7 @@ income, expenditures, and pending income. The financial records of the
 organization are public information and shall be made available to the
 membership, board members, and the public.
 
-## ARTICLE VIII. CORPORATE STAFF
-
-### Section 1: Executive Director
-The Board of Directors shall hire an Executive Director who shall serve at the
-will of the Board.  The Executive Director shall have immediate and overall
-supervision of the operations of the Corporation, and shall direct the
-day-to-day business of the Corporation, maintain the properties of the
-Corporation, hire, discharge, and determine the salaries and other compensation
-of all staff members under the Executive Director’s supervision, and perform
-such additional duties as may be directed by the Executive Committee or the
-Board of Directors.  No officer, Executive Committee member or member of the
-Board of Directors may individually instruct the Executive Director or any
-other employee.  The Executive Director shall make such reports at the Board
-and Executive Committee meetings as shall be required by the President or the
-Board.  The Executive Director shall be an ad-hoc member of all committees.
-
-The Executive Director may not be related by blood or marriage/domestic
-partnership within the second degree of consanguinity or affinity to any member
-of the Board of Directors or Advisory Council.  The Executive Director may be
-hired at any meeting of the Board of Directors by a majority vote and shall
-serve until removed by the Board of Directors upon an affirmative vote of
-three-quarters (3/4) of the members present at any meeting of the Board
-Directors.  Such removal may be with or without cause.  Nothing herein shall
-confer any compensation or other rights on any Executive Director, who shall
-remain an employee terminable at will, as provided in this Section.
-
-## ARTICLE IX. – Conflict of Interest and Compensation
+## ARTICLE VIII. – Conflict of Interest and Compensation
 
 ### Section 1: Purpose
 The purpose of the conflict of interest policy is to protect this tax-exempt
@@ -409,12 +321,6 @@ nonprofit and charitable organizations.
   a.  Interested Person - Any director, principal officer, or member of a
       committee with governing board delegated powers, who has a direct or indirect
       financial interest, as defined below, is an interested person.
-
-[Hospital Insert – for hospitals that complete Schedule C: If a person is an
-interested person with respect to any entity in the health care system of which
-the organization is a part, he or she is an interested person with respect to
-all entities in the health care system.]
-
   b.  Financial Interest - A person has a financial interest if the person has,
       directly or indirectly, through business, investment, or family:
     1.  An ownership or investment interest in any entity with which the
@@ -501,13 +407,6 @@ powers shall contain:
       directly or indirectly, from the Organization, either individually or
       collectively, is prohibited from providing information to any committee
       regarding compensation.
-  [Hospital Insert – for hospitals that complete Schedule C
-  d.  Physicians who receive compensation from the Organization, whether
-      directly or indirectly or as employees or independent contractors, are
-      precluded from membership on any committee whose jurisdiction includes
-      compensation matters. No physician, either individually or collectively, is
-      prohibited from providing information to any committee regarding physician
-      compensation.]
 
 ### Section 6.Annual Statements
 Each director, principal officer and member of a committee with governing board
@@ -519,20 +418,7 @@ delegated powers shall annually sign a statement which affirms such person:
       federal tax exemption it must engage primarily in activities which accomplish
       one or more of its tax-exempt purposes.
 
-### Section 7. Periodic Reviews
-To ensure the Organization operates in a manner consistent with charitable
-purposes and does not engage in activities that could jeopardize its tax-exempt
-status, periodic reviews shall be conducted. The periodic reviews shall, at a
-minimum, include the following subjects:
-  a.  Whether compensation arrangements and benefits are reasonable, based on
-      competent survey information, and the result of arm’s length bargaining.
-  b.  Whether partnerships, joint ventures, and arrangements with management
-      organizations conform to the Organization’s written policies, are properly
-      recorded, reflect reasonable investment or payments for goods and services,
-      further charitable purposes and do not result in inurement, impermissible
-      private benefit or in an excess benefit transaction.
-
-### Section 8. Use of Outside Experts
+### Section 7. Use of Outside Experts
 When conducting the periodic reviews as provided for in Article VII, the
 Organization may, but need not, use outside advisors. If outside experts are
 used, their use shall not relieve the governing board of its responsibility for
