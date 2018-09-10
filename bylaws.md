@@ -76,19 +76,6 @@ declared invalid:
 Voting may be cancelled for any reason by a decision of the Board of Directors
 prior to the start of a voting window.
 
-### Section 4. Elections
-Members shall elect members to the Board of Directors through a vote scheduled
-in the last month of the fiscal year. The number of vacancies available shall
-be advertised to the Membership and the Board shall solicit nominations for no
-less than two weeks within two (2) months of the start of voting, completing
-before the requirements for notife outlined in Section 4.
-
-If the number of candidates sent at the time of notice does not exceed the
-number of vacant seats, a simple majority vote can approve a slate of
-candidates. If more candidates are on the ballot than exist vacant seats, the
-candidates with the highest number of votes will be elected to fill the
-seat(s).
-
 ## ARTICLE V. BOARD OF DIRECTORS
 
 ### Section 1. General Powers
@@ -96,55 +83,64 @@ The affairs of the Corporation shall be managed by its Board of Directors.  The
 Board of Directors shall have control of and be responsible for the management
 of the affairs and property of the Corporation.
 
-### Section 2. Number, Tenure, Requirements, and Qualifications
-The number of Directors shall be fixed from time-to-time by the Directors but
-shall consist of no less than three (3) nor more than fifteen (15) including
-the following officers: the President, the first Vice-President, second
-Vice-President, the Secretary, and the Treasurer.
+### Section 2. Elections
+All members of the Board of Directors must be approved by the members in a
+formal election. Elections shall be held in the last month of the fiscal year.
+The number of vacancies available shall be advertised to the Membership and the
+Board shall solicit nominations for no less than two weeks within two (2)
+months of the start of voting, completing before the requirements for notice
+outlined in Article IV Section 3.
 
-Note: Check with your Secretary of State to see the minimum number of board
-members required in your state.
+If the number of candidates sent at the time of notice does not exceed the
+number of vacant seats, a simple majority vote can approve a slate of
+candidates. If more candidates are on the ballot than exist vacant seats, the
+candidates with the highest number of votes will be elected to fill the
+seat(s).
+
+In elections, the Board may permit voting for multiple applicants. Each ballot
+(given to a single member) may record between one (1) and the number of vacant
+seats votes for different candidates. Multiple votes cannot be made for a
+single candidate per ballot. This procedure shall be outlined in the formal
+notice formal notice.
+
+### Section 3. Number, Tenure, Requirements, and Qualifications
+The number of Directors shall be fixed to seven (7) Board members including the
+following officers: the President, the Secretary, and the Treasurer.
 
 The members of the Board of Directors shall, upon election, immediately enter
 upon the performance of their duties and shall continue in office until their
-successors shall be duly elected and qualified.  All members of the Board of
-Directors must be approved by a majority vote of the members present and
-voting.  No vote on new members of the Board of Directors shall be held unless
-a quorum of the Board of Directors is present as provided in Section 6 of this
-Article.
+successors shall be duly elected and qualified.
 
 No two members of the Board of Directors related by blood or marriage/domestic
 partnership within the second degree of consanguinity or affinity may serve on
 the Board of Directors at the same time.
 
-Each member of the Board of Directors shall be a member of the Corporation
-whose membership dues are paid in full and shall hold office for up to a
-three-year term as submitted by the nominations committee.
+Each member of the Board of Directors shall be a member of the organization for
+a minimum of six (6) months prior to the start of an election.
 
-Newly elected members of the Board of Directors who have not served before
-shall serve initial one-year terms.  At the conclusion of the initial one-year
-term, members of the Board of Directors may serve additional three year terms.
+Board members shall be appointed for two-year terms, serving no more than
+two (2) consecutive terms. If the term limit is reached the Board Member will
+not be elligible for twelve (12) months before applying for another seat on the
+Board.
+
 Their terms shall be staggered so that at the time of each annual meeting, the
-terms of approximately one-third (1/3) of all members of the Board of Directors
+terms of approximately one-half (1/2) of all members of the Board of Directors
 shall expire.
 
 Each member of the Board of Directors shall attend at least nine (9) monthly
 meetings of the Board per year.
 
-### Section 3. Regular and Annual Meetings
-An annual meeting of the Board of Directors shall be held at a time and day in
-the month of September of each calendar year and at a location designated by
-the Executive Committee of the Board of Directors.  The Board of Directors may
-provide by resolution the time and place, for the holding of regular meetings
-of the Board.  Notice of these meetings shall be sent to all members of the
-Board of Directors no less than ten (10) days, prior to the meeting date.
+### Section 3. Regular Meetings
+The Board of Directors will hold monthly meetings at a standard time and
+location.
 
 ### Section 4. Special Meetings
 Special meetings of the Board of Directors may be called by or at the request
 of the President or any two members of the Board of Directors.  The person or
 persons authorized to call special meetings of the Board of Directors may fix
 any location, as the place for holding any special meeting of the Board called
-by them.
+by them. Notice of these meetings shall be sent to all members of the
+Board of Directors no less than three (3) days, prior to the meeting date.
 
 ### Section 5. Notice
 Notice of any special meeting of the Board of Directors shall be given at least
