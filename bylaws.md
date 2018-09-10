@@ -49,23 +49,45 @@ A member can be formally censured or have their membership terminated by a
 simple majority vote of the Board with or without cause, except as outlined in
 Article V Section 14 as applies to Board members.
 
-## ARTICLE IV. MEETINGS OF MEMBERS
+## ARTICLE IV. DECISIONS OF MEMBERS
 
-### Section 1. Regular Meetings
-Regular meetings of the members shall be held quarterly, at a time and place
-designated by the chair.
+### Section 1. Virtual Decision Making / Voting
+Electronic ballots will serve as the means for voting for the general
+membership. All issues to be voted on shall be decided by a simple majority of
+votes registered within the window for voting, except where specified elsewhere
+in these bylaws.
 
-## Section 2. Quorum
-A quorum for a meeting of the members shall consist of at least twenty percent
-(20)% of the active membership.
+### Section 2. Quorum
+A quorum for a decision by the members of at least thirty percent (30)% of the
+active membership. If a vote has too few votes registered, the vote will be
+nullified with no action taken.
 
-Note: You can set the quorum requirements for member meetings in your Bylaws
-and/or your Articles of Incorporation. Check with your Secretary of State
-office to see if what quorum requirements may apply to your member meetings.
+### Section 3. Notification
+Notice of membership voting windows meetings shall be sent to all members of
+the organization no less than ten (10) days, prior to the start of voting. In
+the notice there shall be instructions explaining the voting procedures and the
+window for voting. The window for voting shall include the following or be
+declared invalid:
+  * greater than forty-eight (48) consecutive hours
+  * at least twenty-four (24) hours on a business day
+  * at least twenty-four (24) hours on a non-business day
+  * at least twenty-four (24) hours on a non-holiday
 
-### Section 3.  Voting
-All issues to be voted on shall be decided by a simple majority of those
-present at the meeting in which the vote takes place.
+Voting may be cancelled for any reason by a decision of the Board of Directors
+prior to the start of a voting window.
+
+### Section 4. Elections
+Members shall elect members to the Board of Directors through a vote scheduled
+in the last month of the fiscal year. The number of vacancies available shall
+be advertised to the Membership and the Board shall solicit nominations for no
+less than two weeks within two (2) months of the start of voting, completing
+before the requirements for notife outlined in Section 4.
+
+If the number of candidates sent at the time of notice does not exceed the
+number of vacant seats, a simple majority vote can approve a slate of
+candidates. If more candidates are on the ballot than exist vacant seats, the
+candidates with the highest number of votes will be elected to fill the
+seat(s).
 
 ## ARTICLE V. BOARD OF DIRECTORS
 
