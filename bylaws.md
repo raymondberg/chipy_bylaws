@@ -22,22 +22,32 @@ Chicago.
 ## ARTICLE III. MEMBERSHIP
 
 ### Section 1. Eligibility for Membership
-Application for voting membership shall be open to any current resident,
-property owner, business operator, or employee of the REGIONAL AREA (IF
-NECESSARY) that supports the purpose statement in Article II, Section 2.
-Membership is granted after completion and receipt of a membership application
-and annual dues. All memberships shall be granted upon a majority vote of the
-board.
+Application membership shall be open to anyone who meets all of the following:
+  * 18 years or older
+  * resides part-time or full-time within 200 miles of Chicago
+  * has a valid photo id with full name
+  * has registered in-person with a Registrar at least once in the last 18
+    months
 
-### Section 2. Rights of Members
-Each member shall be eligible to appoint one voting representative to cast the
-member’s vote in association elections.
+### Section 2. Registrars
+The Board shall maintain a policy for applying as and performing as a Registrar
+and publish a roster and instructions on how to contact the Registrar to become
+a member. The Secretary shall maintain a list of members for use in Board
+elections.
 
-### Section 3. Resignation and Termination
-Any member may resign by filing a written resignation with the secretary.
-Resignation shall not relieve a member of unpaid dues, or other charges
-previously accrued. A member can have their membership terminated by a majority
-vote of the membership.
+### Section 3. Rights of Members
+Each member shall be eligible to cast a vote in the election of Board members
+or for changes to the bylaws.
+
+### Section 4. Resignation
+Any member may resign by filing a written resignation with the Secretary or a
+Registrar. If a member does not meet the requirements for membership they will
+be have their membership terminated automatically by the Secretary.
+
+### Section 5. Censure and Termination
+A member can be formally censured or have their membership terminated by a
+simple majority vote of the Board with or without cause, except as outlined in
+Article V Section 14 as applies to Board members.
 
 ## ARTICLE IV. MEETINGS OF MEMBERS
 
