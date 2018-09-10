@@ -1,30 +1,23 @@
 ## ARTICLE I. NAME OF ORGANIZATION
-The name of the corporation is YOUR NONRPOFIT NAME HERE
+The name of the corporation is the Chicago Python Users Group.
 
 ## ARTICLE II. CORPORATE PURPOSE
 
 ### Section 1. Nonprofit Purpose
-This corporation is organized exclusively for charitable, religious,
-educational, and scientific purposes, including, for such purposes, the making
-of distributions to organizations that qualify as exempt organizations under
-section 501(c)(3) of the Internal Revenue Code, or the corresponding section of
-any future federal tax code.
+The mission of the Chicago Python Users Group is to support and facilitate the
+growth of a diverse community of active Python programmers in Chicago and to
+promote Chicago as a hub of development for Python and related technologies.
+
+It qualifies under the US Internal Revenue Code as a tax-exempt 501(c)(3)
+scientific and educational public charity, and conducts its business according
+to the rules for such organizations.
 
 ### Section 2. Specific Purpose
-Noble Paws provides dog sled training and services for persons with special
-needs, disabilities and at-risk behaviors. This service includes the use of a
-trained dog sled team and handicap accessible dog sleds. The sleds are modified
-and/or custom made to accommodate the specific needs of the participants.
-
-The specific objectives and purpose of this organization shall be:
-  a.  to provide instruction in the sport of dog mushing to persons with
-      special needs, disabilities and/or at-risk behaviors;
-  b.  to provide facilities, equipment and a trained dog team for participants
-      to engage in the promotion and participation of the sport of dog mushing;
-  c.  to provide opportunities for participants to engage in recreational,
-      competitive and backcountry mushing;
-  d.  to sponsor, host and/or participate in events and activities that promote
-      the sport of dog mushing.
+The Chicago Python Users Group provides educational materials, events, and
+resources to those seeking a deeper understanding or application of Python and
+related technologies. This includes a wide variety of events open to the
+public, educational programs, and shared resources for Python programmers in
+Chicago.
 
 ## ARTICLE III. MEMBERSHIP
 
